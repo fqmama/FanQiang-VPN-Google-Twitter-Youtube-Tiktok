@@ -37,14 +37,14 @@
 <td class="column-1">退款</td><td class="column-2">30天退款保证</td>
 </tr>
 <tr class="row-6 even">
-<td class="column-1">官网</td><td class="column-2"><a href="/go/nord" target="_blank" rel="noreferrer noopener">NordVPN.com</a></td>
+<td class="column-1">官网</td><td class="column-2"><a href="https://cntizi1.com?gitfqmm_fanqiang" target="_blank" rel="noreferrer noopener">NordVPN.com</a></td>
 </tr>
 </tbody>
 </table>
 <figure class="wp-block-image size-large one-half"><img decoding="async" src="https://qiangwaikan.com/wp-content/uploads/2020/08/nordvpn-mid-cover.jpg" alt="NordVPN官网" class="wp-image-3151"></figure>
 <div class="clear-box"></div>
 <p>NordVPN成立于2012年，公司设立在巴拿马，最初是由4个创始人开发的，他们在开发完成之后，将软件分享给朋友使用，朋友的反馈给了他们极大的鼓舞。此后，意识到当前政府的网络内容审查制度日益严格，他们感觉机会来了，随后创办了NordVPN这公司。目前全球拥有的用户已经超过了1200万人，他们的客户群体贯穿海内外，由于NordVPN的军用机加密算法，以及高级的混淆协议，使得NordVPN成为了一款<a href="/gfw/">不错的翻墙软件</a>。除此之外，使用NordVPN将极大的保护你的隐私，所有数据都会通过虚拟隧道加密，让运营商无法窥视你的个人隐私。</p>
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="/go/nord" target="_blank" rel="noreferrer noopener nofollow">访问NordVPN官网</a></div>
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://cntizi1.com?gitfqmm_fanqiang" target="_blank" rel="noreferrer noopener nofollow">访问NordVPN官网</a></div>
 <hr>
 <h2 class="wp-block-heading"><span id="NordVPN-2">NordVPN速度测试</span></h2>
 <p>Nordvpn速度怎么样，以下是我对NordVPN的详细测试，这里我使用NordVPN进行电脑端进行Youtube的4K视频播放测试，测试结果显示NordVPN表现不错，在切换画质或者拖动进度条的时候，也不会卡顿。NordVPN是一家非常知名的VPN服务商，在全球部署了大量的服务器，其中离中国大陆比较近的节点有台湾、韩国、日本、新加坡等等，你可以通过旁边的服务器列表选择，也可以直接在右边的服务器地图中选择。</p>
@@ -61,7 +61,7 @@
 <p>这是因为在突发事件时期，防火长城会对海外出口流量进行限速，这种是无解的，但这种情况一般不会持续太久。为了整体经济发展，诸如外贸、科学研究等，都需要访问国外网站，全部封锁则弊大于利。</p>
 <h3 class="wp-block-heading"><strong>NordVPN好用吗？</strong> </h3>
 <p>整体表现优秀。从速度上来说，NordVPN提供了足够的带宽，如果你翻墙用于观看视频，那么NordVPN绝对是一个不错的选择，这点可以后面的NordVPN速度测试。</p>
-<p>另外，NordVPN官网良好的中文支持，也是一个加分项，NordVPN提供的应用程序，使用体验简单易懂。那么<a href="/expressvpn-vs-nordvpn/">ExpressVPN和NordVPN哪个更好用</a>呢？个人认为各有千秋，NordVPN相对而言性价比更高。</p>
+<p>另外，NordVPN官网良好的中文支持，也是一个加分项，NordVPN提供的应用程序，使用体验简单易懂。那么ExpressVPN和NordVPN哪个更好用</a>呢？个人认为各有千秋，NordVPN相对而言性价比更高。</p>
 <h2 class="wp-block-heading"><span id="NordVPN-4">NordVPN优惠</span></h2>
 <p>NordVPN向来以性价比著称，价格非常划算。虽然一个月计划比较贵，接近$12每月，但是如果选择三年计划，每月只需要$3.71。并且NordVPN经常会推出新的优惠活动，可以趁活动期间入手，这样可以进一步降低费用。NordVPN支持的付款方式非常多，其中就包括支付宝，这使得国内用户购买非常方便。</p>
 <div class="wp-block-image">
@@ -70,7 +70,7 @@
 <div class="product-coupon">
 <p style="font-weight: 600">NordVPN最新优惠</p>
 <p>限时优惠，2年套餐节省69%</p>
-<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="/go/nord" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得节省69%的NordVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
+<div class="wp-block-button aligncenter"><a class="wp-block-button__link has-vivid-red-background-color has-background" href="https://cntizi1.com?gitfqmm_fanqiang" target="_blank" rel="noopener nofollow" style="margin: 10px auto">获得节省69%的NordVPN优惠 &nbsp;<i class="fa fa-caret-right"></i></a></div>
 <p>（优惠将通过链接自动抵扣）</p>
 </div>
 <hr>
