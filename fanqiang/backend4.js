@@ -1,4 +1,3 @@
-/** @flow */
 
 import Agent from 'react-devtools-shared/src/backend/agent';
 import Bridge from 'react-devtools-shared/src/bridge';
@@ -34,7 +33,6 @@ function startActivation(contentWindow: any, bridge: BackendBridge) {
     contentWindow.__REACT_DEVTOOLS_HIDE_CONSOLE_LOGS_IN_STRICT_MODE__ =
       hideConsoleLogsInStrictMode;
 
-    // TRICKY
     // The backend entry point may be required in the context of an iframe or the parent window.
     // If it's required within the parent window, store the saved values on it as well,
     // since the injected renderer interface will read from window.
